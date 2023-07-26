@@ -20,10 +20,6 @@
 
 ## Study Note
 
-### 변수
-
 - [var]()
-
 - let
-
 - const
