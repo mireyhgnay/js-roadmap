@@ -20,6 +20,6 @@
 
 ## Study Note
 
-- [var]()
+- [var](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/var.md)
 - let
 - const
