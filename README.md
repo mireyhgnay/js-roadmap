@@ -26,4 +26,6 @@
 - [let](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/let.md)
   - let은 블록 스코프를 갖는다.
   - TDZ를 가지므로 선언 전에는 접근할 수 없다.
-- const
+- [const]()
+  - const는 블록 스코프를 갖는다.
+  - 이러쿵저러쿵 해도 절대 값을 변경할 순 없음!
