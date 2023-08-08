@@ -14,6 +14,8 @@
 
 호이스팅으로 값이 undefined로 초기화 됩니다.
 
+> 호이스팅은 코드가 실행하기 전 변수선언/함수선언이 해당 스코프의 최상단으로 끌어 올려진 것 같은 현상을 말한다.
+
 따라서 선언 전 변수에 접근할 수 있습니다.
 
 값을 다시 할당하거나 변수를 다시 선언할 수 있습니다.
@@ -24,6 +26,7 @@
 
 ```jsx
 var x = 1;
+
 if (x === 1) {
   var x = 2;
   console.log(x); // 2
@@ -38,12 +41,15 @@ if문 블록 안에서 x를 다시 선언, 값을 할당 했지만, 블록 스�
 ```jsx
 function foo() {
   var x = 1;
+
   function bar() {
     var y = 2;
     console.log(x); // 1
     console.log(y); // 2
   }
+
   bar();
+
   console.log(x); // 1
   console.log(y); // ReferenceError: y is not defined
 }
@@ -60,22 +66,24 @@ foo();
 
 ```jsx
 console.log(x); // undefined (not ReferenceError)
+
 var x = 1;
 console.log(x); // 1
 ```
 
-var 변수는 코드 실행 전에 만들어집니다. 전역 객체의 non-configurable 속성으로 추가되며, 초기 값은 undefined 입니다.
+var 변수는 코드 실행 전에 만들어집니다.  
+전역 객체의 non-configurable 속성으로 추가되며, 초기 값은 undefined 입니다.
 
 <br>
 
-> **non-configurable 특징**
+**non-configurable 특징**
 
 - delete로 지울 수 없음
 - 플래그(writable, enumerable, configurable)를 수정할 수 없음
 
 **호이스팅**
 
-변수 선언이 스코프 최 상단으로 옮겨지는 것
+변수 선언이 스코프 최 상단으로 옮겨지는 것 같은 현상
 
 **왜 호이스팅이 있는걸까?**
 
