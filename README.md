@@ -30,3 +30,4 @@
   - const는 블록 스코프를 갖는다.
   - 이러쿵저러쿵 해도 절대 값을 변경할 순 없음!
 - [Hoisting(호이스팅)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/Hoisting.md)
+- [TDZ(Temporal Dead Zone)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/TDZ.md)
