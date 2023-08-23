@@ -32,4 +32,4 @@
 - [Hoisting(호이스팅)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/Hoisting.md)
 - [TDZ(Temporal Dead Zone)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/TDZ.md)
 - [DataType(자료형)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType.md)
-  - [Number(숫자형)]()
+  - [Number(숫자형)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Number.md)

@@ -75,4 +75,4 @@ n = 12.345;
 
 <br>
 
-[숫자형 더 공부하기👉]()
+[숫자형 더 자세히 공부하기 👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Number.md)
