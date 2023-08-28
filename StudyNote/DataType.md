@@ -50,3 +50,5 @@ message = 123456;
 #### [문자형 보러가기 👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/String.md)
 
 #### [불린형 보러가기 👉]()
+
+#### ['null' 값 & 'undefined' 값 👉]()
