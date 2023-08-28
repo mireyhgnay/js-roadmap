@@ -8,9 +8,8 @@
 - https://roadmap.sh/javascript
 
 <br>
-<br>
 
-# DataType
+## DataType
 
 ### Primitive Types
 
@@ -25,7 +24,7 @@
 <br>
 <br>
 
-# 자료형 (DataType)
+## 자료형 (DataType)
 
 자바스크립트에서 값은 항상 문자열이나 숫자형 같은 특정한 자료형에 속합니다.
 
@@ -49,3 +48,5 @@ message = 123456;
 #### [숫자형 보러가기 👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Number.md)
 
 #### [문자형 보러가기 👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/String.md)
+
+#### [불린형 보러가기 👉]()
