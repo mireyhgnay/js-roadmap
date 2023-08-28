@@ -34,3 +34,5 @@
 - [DataType(자료형)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType.md)
   - [Number(숫자형)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Number.md)
   - [String(문자형)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/String.md)
+  - [Boolean(불린형/논리형)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Boolean.md)
+  - [null 값과 undefined 값](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/null%20%26%20undefined.md)
