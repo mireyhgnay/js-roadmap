@@ -51,4 +51,6 @@ message = 123456;
 
 #### [불린형 보러가기 👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Boolean.md)
 
-#### ['null' 값 & 'undefined' 값 👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/null%20%26%20undefined.md)
+#### ['null' 값 & 'undefined' 값 보러가기👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/null%20%26%20undefined.md)
+
+#### [Object(객체) 와 Symbol(심볼) 보러가기 👉]()
