@@ -45,6 +45,41 @@ message = 123456;
 
 <br>
 
+## typeof 연산자로 데이터 타입 알아보기
+
+typeof 연산자는 인수의 자료형을 반환합니다.
+
+자료형에 따라 처리 방식을 다르게 하고 싶거나 변수의 자료형을 빠르게 알아내고자 할 때 유용합니다.
+
+<br>
+
+typeof 연산자는 두 가지 형태의 문법을 지원합니다.
+
+괄호가 있든 없든 결과가 동일합니다.
+
+- 연산자: typeof x
+  - typeof x를 호출하면 인수의 자료형을 나타내는 문자열을 반환합니다.
+- 함수: typeof(x)
+
+```jsx
+typeof undefined; // "undefined"
+
+typeof 0; // "number"
+
+typeof 10n; // "bigint"
+
+typeof true; // "boolean"
+
+typeof "foo"; // "string"
+
+typeof Symbol("id"); // "symbol"
+
+const text = "안녕";
+console.log(typeof text); // string
+```
+
+<br>
+
 #### [숫자형 보러가기 👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Number.md)
 
 #### [문자형 보러가기 👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/String.md)
