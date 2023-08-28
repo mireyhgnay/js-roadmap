@@ -53,4 +53,4 @@ message = 123456;
 
 #### ['null' 값 & 'undefined' 값 보러가기👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/null%20%26%20undefined.md)
 
-#### [Object(객체) 와 Symbol(심볼) 보러가기 👉]()
+#### [Object(객체) 와 Symbol(심볼) 보러가기 👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Object%20%26%20Symbol.md)
