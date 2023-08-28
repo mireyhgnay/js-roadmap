@@ -2,7 +2,7 @@
   <img width="200px;" src="./images/map.png"/>
 </div>
 <h2 align="center">🌏 JavaScript Roadmap</h2>
-<p align="center">티몬 사이트 메인 홈 브라우저 성능 개선</p>
+<p align="center">자바스크립트 로드맵을 따라 스터디합니다.</p>
 
 <br>
 <br>
