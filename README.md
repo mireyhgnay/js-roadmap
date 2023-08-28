@@ -18,7 +18,7 @@
 <br>
 <br>
 
-## Study Note
+## List
 
 - [var](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/var.md)
   - var 변수는 블록스코프를 가지지 않는다.
@@ -33,4 +33,4 @@
 - [TDZ(Temporal Dead Zone)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/TDZ.md)
 - [DataType(자료형)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType.md)
   - [Number(숫자형)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Number.md)
-  - [String(문자형)]()
+  - [String(문자형)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/String.md)

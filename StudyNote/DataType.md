@@ -46,6 +46,6 @@ message = 123456;
 
 <br>
 
-#### [숫자형 보러가기 👉]()
+#### [숫자형 보러가기 👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Number.md)
 
-#### [문자형 보러가기 👉]()
+#### [문자형 보러가기 👉](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/String.md)
