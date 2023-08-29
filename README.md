@@ -38,3 +38,4 @@
   - [null 값과 undefined 값](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/null%20%26%20undefined.md)
   - [Object(객체) 와 Symbol(심볼)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Object%20%26%20Symbol.md)
 - [형 변환 : String(), Number(), Boolean()](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%ED%98%95%20%EB%B3%80%ED%99%98.md)
+- [기본 연산자와 수학](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%EA%B8%B0%EB%B3%B8%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%EC%88%98%ED%95%99.md)
