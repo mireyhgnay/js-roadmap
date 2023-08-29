@@ -37,3 +37,4 @@
   - [Boolean(불린형/논리형)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Boolean.md)
   - [null 값과 undefined 값](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/null%20%26%20undefined.md)
   - [Object(객체) 와 Symbol(심볼)](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/DataType/Object%20%26%20Symbol.md)
+- [형 변환 : String(), Number(), Boolean()](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%ED%98%95%20%EB%B3%80%ED%99%98.md)
