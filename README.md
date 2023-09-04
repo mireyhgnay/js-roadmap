@@ -41,3 +41,4 @@
 - [기본 연산자와 수학](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%EA%B8%B0%EB%B3%B8%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%EC%88%98%ED%95%99.md)
 - [비교 연산자](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%EB%B9%84%EA%B5%90%EC%97%B0%EC%82%B0%EC%9E%90.md)
 - [논리 연산자](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90.md)
+- [while 과 for 반복문](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/while%EA%B3%BC%20for%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
