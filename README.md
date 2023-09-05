@@ -44,4 +44,4 @@
 - [while 과 for 반복문](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/while%EA%B3%BC%20for%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
 - [switch...case](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/switch%EB%AC%B8.md)
 - [함수](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%ED%95%A8%EC%88%98.md)
-- [함수 표현식]()
+- [함수 표현식](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%ED%95%A8%EC%88%98%20%ED%91%9C%ED%98%84%EC%8B%9D.md)
