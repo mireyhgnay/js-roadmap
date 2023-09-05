@@ -42,4 +42,4 @@
 - [비교 연산자](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%EB%B9%84%EA%B5%90%EC%97%B0%EC%82%B0%EC%9E%90.md)
 - [논리 연산자](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90.md)
 - [while 과 for 반복문](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/while%EA%B3%BC%20for%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
-- [switch...case]()
+- [switch...case](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/switch%EB%AC%B8.md)
