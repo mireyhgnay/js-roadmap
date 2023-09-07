@@ -3,6 +3,7 @@
 </div>
 <h2 align="center">🌏 JavaScript Roadmap</h2>
 <p align="center">자바스크립트 로드맵을 따라 스터디합니다.</p>
+<p align="center">모르는 부분만 찝어 정리합니다.</p>
 
 <br>
 <br>
