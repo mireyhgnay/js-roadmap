@@ -46,8 +46,8 @@
 - [switch...case](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/switch%EB%AC%B8.md)
 - [함수](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%ED%95%A8%EC%88%98.md)
 - [함수 표현식](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%ED%95%A8%EC%88%98%20%ED%91%9C%ED%98%84%EC%8B%9D.md)
-- [화살표 함수]()
-- [기본 문법 요약]()
+- [화살표 함수](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%ED%99%94%EC%82%B4%ED%91%9C%20%ED%95%A8%EC%88%98.md)
+- [기본 문법 요약](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95%20%EC%9A%94%EC%95%BD.md)
 
 <br>
 <br>
