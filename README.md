@@ -47,3 +47,12 @@
 - [함수](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%ED%95%A8%EC%88%98.md)
 - [함수 표현식](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%ED%95%A8%EC%88%98%20%ED%91%9C%ED%98%84%EC%8B%9D.md)
 - [화살표 함수]()
+- [기본 문법 요약]()
+
+<br>
+<br>
+
+## 코드 품질
+
+- [Chrome으로 디버깅하기]()
+- [Architecture(아키텍쳐)]()
