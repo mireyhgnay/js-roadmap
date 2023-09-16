@@ -63,3 +63,5 @@
 ## 객체: 기본
 
 - [객체](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%EA%B0%9D%EC%B2%B4.md)
+- [메서드와 this]()
+- [new연산자와 생성자 함수]()
