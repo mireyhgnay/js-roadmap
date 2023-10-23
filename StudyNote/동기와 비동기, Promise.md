@@ -1,4 +1,4 @@
-# <div align="center">📍 async와 await</div>
+# <div align="center">📍 동기와 비동기, Promise</div>
 
 <br>
 
