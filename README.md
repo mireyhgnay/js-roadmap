@@ -72,4 +72,4 @@
 
 ## 프라미스와 async, await
 
-- [async와 await]()
+- [async와 await](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/async%EC%99%80%20await.md)
