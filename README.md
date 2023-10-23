@@ -73,3 +73,4 @@
 ## 프라미스와 async, await
 
 - [동기와 비동기, Promise](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/async%EC%99%80%20await.md)
+- [async 와 await](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/async%EC%99%80%20await.md)
