@@ -74,4 +74,4 @@
 
 - [동기와 비동기, Promise](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/async%EC%99%80%20await.md)
 - [async 와 await](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/async%EC%99%80%20await.md)
-- [네트워크 요청 : fetch]()
+- [네트워크 요청 : fetch](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9A%94%EC%B2%AD%20%3A%20fetch.md)
