@@ -76,12 +76,12 @@
 - [async 와 await](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/async%EC%99%80%20await.md)
 - [네트워크 요청 : fetch](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9A%94%EC%B2%AD%20%3A%20fetch.md)
 
----
+<br>
 
 ---
 
-## 코딩 앙마 JS Study
+<br>
 
-🔗 [코딩앙마 - 자바스크립트 중급 강좌](https://www.youtube.com/watch?v=ocGc-AmWSnQ&list=PLZKTXPmaJk8JZ2NAC538UzhY_UNqMdZB4)
+## 😈 코딩 앙마 JS Study ([🔗 Youtube](https://www.youtube.com/watch?v=ocGc-AmWSnQ&list=PLZKTXPmaJk8JZ2NAC538UzhY_UNqMdZB4))
 
 - [#1 변수,호이스팅,TDZ ~ #5 숫자,수학 method](https://hyerimiya.notion.site/1-5-7345651a66174113bce84e06181f4dd1?pvs=4)
