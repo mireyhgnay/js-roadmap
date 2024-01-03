@@ -85,3 +85,5 @@
 ## 😈 코딩 앙마 JS Study ([🔗 Youtube](https://www.youtube.com/watch?v=ocGc-AmWSnQ&list=PLZKTXPmaJk8JZ2NAC538UzhY_UNqMdZB4))
 
 - [#1 변수,호이스팅,TDZ ~ #5 숫자,수학 method](https://hyerimiya.notion.site/1-5-7345651a66174113bce84e06181f4dd1?pvs=4)
+
+- [#6 문자열 메소드(String methods) ~ #18 Generator](https://hyerimiya.notion.site/6-18-6079baa2260b44f7a16dc3e27fee1d34?pvs=4)
