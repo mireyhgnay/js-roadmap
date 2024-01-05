@@ -77,9 +77,6 @@
 - [네트워크 요청 : fetch](https://github.com/mireyhgnay/js-roadmap/blob/main/StudyNote/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9A%94%EC%B2%AD%20%3A%20fetch.md)
 
 <br>
-
----
-
 <br>
 
 ## 🍎 코딩 애플 JS Study ([🔗 Coding Apple](https://codingapple.com/course/javascript-jquery-ui/))
@@ -96,8 +93,7 @@
 
 - [2024.01.05 - Level3.Array 와 Object 자료형 ~ Select 3 : forEach, for in 반복문](https://hyerimiya.notion.site/2024-01-05-Level3-2f1445c07c8d44109c2d3995aa1e8625?pvs=4)
 
----
-
+<br>
 <br>
 
 ## 😈 코딩 앙마 JS Study ([🔗 Youtube](https://www.youtube.com/watch?v=ocGc-AmWSnQ&list=PLZKTXPmaJk8JZ2NAC538UzhY_UNqMdZB4))
