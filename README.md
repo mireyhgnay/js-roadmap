@@ -93,6 +93,8 @@
 
 - [2024.01.05 - Level3.Array 와 Object 자료형 ~ Select 3 : forEach, for in 반복문](https://hyerimiya.notion.site/2024-01-05-Level3-2f1445c07c8d44109c2d3995aa1e8625?pvs=4)
 
+- [2024.01.07 - Level3.Ajax ~ Switch문](https://hyerimiya.notion.site/2024-01-07-Level3-333b18e6439a4716a36ce81976e6e8f0?pvs=4)
+
 <br>
 <br>
 
