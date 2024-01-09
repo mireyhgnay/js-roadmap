@@ -79,7 +79,7 @@
 <br>
 <br>
 
-## 🍎 코딩 애플 JS Study ([🔗 Coding Apple](https://codingapple.com/course/javascript-jquery-ui/))
+## 🍎 코딩 애플 JS 1 ([🔗 Coding Apple](https://codingapple.com/course/javascript-jquery-ui/))
 
 - [2023.10.30 - Level1.강의 소개와 자바스크립트의 근본 ~ 모달창만들기와 간단한 애니메이션](https://github.com/mireyhgnay/js-roadmap/blob/main/CodingApple/Docs/2023.10.30.md)
 
@@ -94,6 +94,11 @@
 - [2024.01.05 - Level3.Array 와 Object 자료형 ~ Select 3 : forEach, for in 반복문](https://hyerimiya.notion.site/2024-01-05-Level3-2f1445c07c8d44109c2d3995aa1e8625?pvs=4)
 
 - [2024.01.07 - Level3.Ajax ~ Switch문](https://hyerimiya.notion.site/2024-01-07-Level3-333b18e6439a4716a36ce81976e6e8f0?pvs=4)
+
+<br>
+<br>
+
+## 🍎 코딩애플 JS 2 객체지향 & ES6 ([🔗 Coding Apple](https://codingapple.com/course/javascript-es6/))
 
 <br>
 <br>
