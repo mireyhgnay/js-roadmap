@@ -98,7 +98,9 @@
 <br>
 <br>
 
-## 🍎 코딩애플 JS 2 객체지향 & ES6 ([🔗 Coding Apple](https://codingapple.com/course/javascript-es6/))
+## 🍎 코딩 애플 JS 2 객체지향 & ES6 ([🔗 Coding Apple](https://codingapple.com/course/javascript-es6/))
+
+- [2024.01.10 - Part1. this 키워드를 알아보자 1. 함수와 Object에서 사용하면? ~ ]()
 
 <br>
 <br>
