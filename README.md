@@ -100,7 +100,7 @@
 
 ## 🍎 코딩 애플 JS 2 객체지향 & ES6 ([🔗 Coding Apple](https://codingapple.com/course/javascript-es6/))
 
-- [2024.01.10 - Part1. this 키워드를 알아보자 1. 함수와 Object에서 사용하면? ~ ]()
+- [2024.01.10 - Part1. this 키워드를 알아보자 1. 함수와 Object에서 사용하면? ~ ](https://hyerimiya.notion.site/this-d4af463b560f4b678dea428a1d9fa075?pvs=4)
 
 <br>
 <br>
