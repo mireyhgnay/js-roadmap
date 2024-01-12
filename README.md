@@ -104,6 +104,8 @@
 
 - [2024.01.10 - Part1. this & arrow function 연습문제](https://hyerimiya.notion.site/this-Arrow-Function-4d237573f188494e83e7cdb5ac129d19?pvs=4)
 
+- [2024.01.10 - Part1. 변수 신문법 총정리 ~ apply, call 함수](https://hyerimiya.notion.site/apply-call-f0aff1ebedb44dfcaebf09bcc6611a51?pvs=4)
+
 <br>
 <br>
 
