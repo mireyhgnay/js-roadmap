@@ -106,6 +106,8 @@
 
 - [2024.01.10 - Part1. 변수 신문법 총정리 ~ apply, call 함수](https://hyerimiya.notion.site/apply-call-f0aff1ebedb44dfcaebf09bcc6611a51?pvs=4)
 
+- [2024.01.15 - Part2. default parameter / arguments ~ ](https://hyerimiya.notion.site/Part2-default-parameter-arguments-1d21e1f7376e4606b07af26a589f3121?pvs=4)
+
 <br>
 <br>
 
