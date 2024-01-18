@@ -108,6 +108,8 @@
 
 - [2024.01.15 - Part2. default parameter / arguments ~ ](https://hyerimiya.notion.site/Part2-default-parameter-arguments-1d21e1f7376e4606b07af26a589f3121?pvs=4)
 
+- [2024.01.18 - Part2. ](https://hyerimiya.notion.site/Part2-d0ac39f516f24b36a99465e582877bba?pvs=4)
+
 <br>
 <br>
 
