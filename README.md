@@ -108,7 +108,7 @@
 
 - [2024.01.15 - Part2. default parameter / arguments ~ Spread, rest 파라미터 연습문제](https://hyerimiya.notion.site/Part2-default-parameter-arguments-Spread-rest-1d21e1f7376e4606b07af26a589f3121?pvs=4)
 
-- [2024.01.21 - Part2. 이상한 Reference data type과 더 이상한 예제 3개 ~ ](https://hyerimiya.notion.site/Part2-Reference-data-type-3-d0ac39f516f24b36a99465e582877bba?pvs=4)
+- [2024.01.21 - Part2. Reference data type ~ 객체지향 prototype과 class](https://hyerimiya.notion.site/Part2-Reference-data-type-3-d0ac39f516f24b36a99465e582877bba?pvs=4)
 
 <br>
 <br>
