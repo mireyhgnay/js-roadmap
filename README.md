@@ -106,9 +106,9 @@
 
 - [2024.01.10 - Part1. 변수 신문법 총정리 ~ apply, call 함수](https://hyerimiya.notion.site/apply-call-f0aff1ebedb44dfcaebf09bcc6611a51?pvs=4)
 
-- [2024.01.15 - Part2. default parameter / arguments ~ ](https://hyerimiya.notion.site/Part2-default-parameter-arguments-1d21e1f7376e4606b07af26a589f3121?pvs=4)
+- [2024.01.15 - Part2. default parameter / arguments ~ Spread, rest 파라미터 연습문제](https://hyerimiya.notion.site/Part2-default-parameter-arguments-Spread-rest-1d21e1f7376e4606b07af26a589f3121?pvs=4)
 
-- [2024.01.18 - Part2. ](https://hyerimiya.notion.site/Part2-d0ac39f516f24b36a99465e582877bba?pvs=4)
+- [2024.01.21 - Part2. 이상한 Reference data type과 더 이상한 예제 3개 ~ ](https://hyerimiya.notion.site/Part2-Reference-data-type-3-d0ac39f516f24b36a99465e582877bba?pvs=4)
 
 <br>
 <br>
