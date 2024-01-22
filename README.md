@@ -116,6 +116,8 @@
 
 - [2024.01.22 - Part2. import / export 를 이용한 파일간 모듈식 개발](https://hyerimiya.notion.site/Part2-import-export-7c2bd8174bb44c96acf4bc609674a581?pvs=4)
 
+- [2024.01.23 - Part2. 브라우저 동작 원리 : Stack, Queue](https://hyerimiya.notion.site/Part2-Stack-Queue-da35af4e49704f89b1d54ad70a60c1a8?pvs=4)
+
 <br>
 <br>
 
