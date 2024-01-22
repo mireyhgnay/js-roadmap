@@ -110,6 +110,10 @@
 
 - [2024.01.21 - Part2. Reference data type ~ 객체지향 prototype과 class](https://hyerimiya.notion.site/Part2-Reference-data-type-3-d0ac39f516f24b36a99465e582877bba?pvs=4)
 
+- [2024.01.22 - Part2. class를 복사하는 extends / super](https://hyerimiya.notion.site/Part2-class-extends-super-34f52cff862c458cba7b3422b329002e?pvs=4)
+
+- [2024.01.22 - Part2. getter, setter](https://hyerimiya.notion.site/Part2-getter-setter-30924292a89e4ff7a4f2314b5cfe4742?pvs=4)
+
 <br>
 <br>
 
