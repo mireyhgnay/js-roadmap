@@ -114,6 +114,8 @@
 
 - [2024.01.22 - Part2. getter, setter](https://hyerimiya.notion.site/Part2-getter-setter-30924292a89e4ff7a4f2314b5cfe4742?pvs=4)
 
+- [2024.01.22 - Part2. import / export 를 이용한 파일간 모듈식 개발](https://hyerimiya.notion.site/Part2-import-export-7c2bd8174bb44c96acf4bc609674a581?pvs=4)
+
 <br>
 <br>
 
