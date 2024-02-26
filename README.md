@@ -122,6 +122,8 @@
 
 - [2024.02.26 - Part3. ES6 Promise](https://hyerimiya.notion.site/Part3-ES6-Promise-cb85d52a0cc040baac09c2ec72b914fb?pvs=4)
 
+- [2024.02.26 - Part3. async/await 도 있지요 (ES8)](https://hyerimiya.notion.site/Part3-async-await-ES8-6e1810bc3cea44bd8adcfb3ea50ccb37?pvs=4)
+
 <br>
 <br>
 
