@@ -118,6 +118,8 @@
 
 - [2024.01.23 - Part2. 브라우저 동작 원리 : Stack, Queue](https://hyerimiya.notion.site/Part2-Stack-Queue-da35af4e49704f89b1d54ad70a60c1a8?pvs=4)
 
+- [2024.02.26 - Part3. 동기/비동기처리와 콜백함수](https://hyerimiya.notion.site/Part3-336da4ee245e4b0a96842daa1407d04b?pvs=4)
+
 <br>
 <br>
 
