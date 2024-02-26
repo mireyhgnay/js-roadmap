@@ -120,6 +120,8 @@
 
 - [2024.02.26 - Part3. 동기/비동기처리와 콜백함수](https://hyerimiya.notion.site/Part3-336da4ee245e4b0a96842daa1407d04b?pvs=4)
 
+- [2024.02.26 - Part3. ES6 Promise](https://hyerimiya.notion.site/Part3-ES6-Promise-cb85d52a0cc040baac09c2ec72b914fb?pvs=4)
+
 <br>
 <br>
 
