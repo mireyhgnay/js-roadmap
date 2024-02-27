@@ -124,6 +124,8 @@
 
 - [2024.02.26 - Part3. async/await 도 있지요 (ES8)](https://hyerimiya.notion.site/Part3-async-await-ES8-6e1810bc3cea44bd8adcfb3ea50ccb37?pvs=4)
 
+- [2024.02.27 - Part3. for in / for of 반복문과 enumerable, iterable 속성](https://hyerimiya.notion.site/Part3-for-in-for-of-enumerable-iterable-fa313cc285454ec180495aa8473c408c?pvs=4)
+
 <br>
 <br>
 
