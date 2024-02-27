@@ -126,6 +126,8 @@
 
 - [2024.02.27 - Part3. for in / for of 반복문과 enumerable, iterable 속성](https://hyerimiya.notion.site/Part3-for-in-for-of-enumerable-iterable-fa313cc285454ec180495aa8473c408c?pvs=4)
 
+- [2024.02.27 - Part3. Symbol 자료형](https://hyerimiya.notion.site/Part3-Symbol-4645d47487394008bf6c666119812fcc?pvs=4)
+
 <br>
 <br>
 
