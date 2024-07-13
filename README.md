@@ -136,3 +136,10 @@
 - [#1 변수,호이스팅,TDZ ~ #5 숫자,수학 method](https://hyerimiya.notion.site/1-5-7345651a66174113bce84e06181f4dd1?pvs=4)
 
 - [#6 문자열 메소드(String methods) ~ #18 Generator](https://hyerimiya.notion.site/6-18-6079baa2260b44f7a16dc3e27fee1d34?pvs=4)
+
+<br>
+<br>
+
+## 📔 Book :: Deep Dive
+
+- [Deep Dive Book](https://hyerimiya.notion.site/Deep-Dive-a747aa7e3ce84019b6f91b32d24415e8?pvs=4)
